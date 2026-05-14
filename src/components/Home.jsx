@@ -12,7 +12,7 @@ const Home = () => {
           <h4 className="text-gray-400 text-xl">Hi I am</h4>
           <h1 className="text-5xl md:text-6xl font-bold">Research Dhamala</h1>
           <h2 className="text-5xl md:text-7xl font-extrabold text-orange-500">
-            Software Developer
+            Software Engineer
           </h2>
 
           <div className="flex space-x-4 pt-4">
