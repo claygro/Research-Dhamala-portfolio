@@ -11,7 +11,7 @@ const Home = () => {
         <div className="space-y-6">
           <h4 className="text-gray-400 text-xl">Hi I am</h4>
           <h1 className="text-5xl md:text-6xl font-bold">Research Dhamala</h1>
-          <h2 className="text-5xl md:text-7xl font-extrabold text-orange-500">
+          <h2 className="text-5xl md:text-7xl font-extrabold text-orange-400">
             Software Engineer
           </h2>
 
